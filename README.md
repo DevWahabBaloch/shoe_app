@@ -1,16 +1,27 @@
-# shoe_screen_practice
+# Shoe Store UI
 
-A new Flutter project.
+Shoe store and product ordering UI in Flutter, built with Stack, Positioned and Transform layouts.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+A product showcase and ordering UI for a shoe store.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Layered product layouts with `Stack`, `Positioned` and `Transform`
+- Product detail and ordering screens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech stack
+
+Flutter · Dart
+
+## Getting started
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+*This is a focused practice project. For production work, see my [GitHub profile](https://github.com/DevWahabBaloch).*
